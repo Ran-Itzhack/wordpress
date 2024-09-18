@@ -33,7 +33,7 @@ wp-content/upgrade/
 wp-content/themes/*
 
 # don't ignore the theme you're using
-!wp-content/themes/yourthemename
+!wp-content/themes/hestia
 
 # ignore all files starting with . or ~
 .*
